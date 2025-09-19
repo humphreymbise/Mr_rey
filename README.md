@@ -18,4 +18,4 @@ src='https://files.catbox.moe/z59hhv.jpg'/>
 
  ## 👇¥DEPLOY TO HEROKU¥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEZE47-MD/ZEZE47)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/humphreymbise/Mr_rey)
